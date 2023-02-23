@@ -1,2 +1,2 @@
 # project-library
-collection of my project
+collection of my projects
